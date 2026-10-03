@@ -8,7 +8,7 @@
 - TP sur l'organisation de dossiers et fichiers dans le terminal
 - création d'un dépôt github
 - clonage du dépôt dans mon ordinateur
-- création de mon journal de bord
+- création et édition de mon journal de bord
 
 ## Pendant le cours
 
@@ -16,6 +16,6 @@ La séance du jour a été à la fois théorique et pratique. Une partie du cour
 
 ## Après le cours
 
-Le soir même après le cours, j'ai directement commencé la première fiche d'exercice car les connaissances apprises en cours étaient encore fraîche. J'ai donc créé un dépôt github et j'ai suivi le reste des consignes de l'exercice. La première partie a été très simple mais j'ai eu un blocage car je ne me souvenais plus de comment éditer mon journal depuis le terminal. J'ai donc demandé dans le discord de la classe et j'ai pu éditer mon journal avec la commande nano. 
+Après le cours, j'ai fait les exercices qui nous ont été assigné à la fin de la séance. J'ai d'abord créé un dépôt github que j'ai récupéré sur mon ordinateur en suivant les consignes de l'exercice. La première partie a été très simple mais j'ai eu un blocage car je ne me souvenais plus de comment éditer mon journal depuis le terminal. J'ai donc demandé dans le discord de la classe et j'ai pu éditer mon journal avec la commande nano. Pour la synchronisation du dépôt, j'ai d'abord utilisé la commande "git status" pour voir les changements du dossier par rapport au dépôt. J'ai ensuite utilisé "git pull" pour récupérer les modifications en ligne.Lorsque j'ai édité mon journal depuis le terminal, j'ai utilisé "git commit" pour validé les modifications et j'ai envoyé le contenu du commit sur internet grâce à "git push".   
 
 
