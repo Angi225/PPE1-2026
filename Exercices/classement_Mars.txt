@@ -1,0 +1,15 @@
+1 1000    Haïti
+      1 1001    Îles-de-la-Madeleine
+      1 1007    Israël
+      1 100     Chili
+      1 1013    Grande-Bretagne
+      1 1019    Syrie
+      1 101     Hérault
+      1 101     Lille
+      1 1021    Rouen
+      1 1023    Knudsen
+      1 1033    Danemark
+      1 1033    Nigeria
+      1 1046    autostop-citoyen.fr
+      1 1046    Suisse
+      1 1057    Syrie
