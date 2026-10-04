@@ -1,0 +1,16 @@
+      1 1000    Liban 
+      1 1002    Portugal 
+      1 10062   France 
+      1 1006    Haute-Savoie 
+      1 10081   Paris 
+      1 10083   Champs-Élysées 
+      1 10084   arc 
+      1 100     Bruxelles 
+      1 10112   place 
+      1 10118   Champs-Élysées 
+      1 10124   avenue 
+      1 1013    Grande-Bretagne 
+      1 1019    Amsterdam 
+      1 10209   Champs-Élysées 
+      1 1021    Côte-d’Ivoire
+ 

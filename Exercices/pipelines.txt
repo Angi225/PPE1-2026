@@ -1,0 +1,18 @@
+Question 1.a
+
+cat *.ann | wc
+
+Question 1.b
+
+cat *.ann| grep Location| wc-l
+
+Question 2.a
+
+J'ai essayé "grep Location *.ann| cut -d ' ' -f3| sort -n | uniq -c | ta
+il -n15" mais le résultat contenait des doublons.
+
+J'ai ensuite fait "grep Location *.ann| cut -d ' ' -f3| sort | uniq -c | tail 
+-n15" mais le résultat était en ordre décroissant. J'ai donc utilisé head à la place de tail.
+
+commande finale : grep Location *.ann| cut -d ' ' -f3| sort | uniq -c | head 
+-n15
