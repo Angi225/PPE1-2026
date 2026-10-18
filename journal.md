@@ -24,3 +24,9 @@ Après le cours, j'ai fait les exercices qui nous ont été assigné à la fin d
 J'aimerais qu'on réexplique l'usage des commandes uniq et sort lors de la prochaine séance car je n'arrivais pas à ranger mes résultats par ordre croissant sans générer les doublons. J'ai dû utiliser head au lieu de tail pour la question 2.a
 
 
+#Séance 3
+
+##exercice git
+
+
+
