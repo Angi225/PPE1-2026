@@ -28,6 +28,6 @@ J'aimerais qu'on réexplique l'usage des commandes uniq et sort lors de la proch
 
 ##exercice git
 
-lormapkrjtntnt
+cette ligne doit être supprimée
 
 Cette ligne doit rester après correction
