@@ -30,4 +30,4 @@ J'aimerais qu'on réexplique l'usage des commandes uniq et sort lors de la proch
 
 cette ligne doit être supprimée
 
-Cette ligne doit rester après correction
+Cette ligne doit rester après la correction.
