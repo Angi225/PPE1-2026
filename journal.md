@@ -26,13 +26,13 @@ J'aimerais qu'on réexplique l'usage des commandes uniq et sort lors de la proch
 
 #Séance 3
 
-##exercice git correction d'erreur
+##exercice git correction d'erreur.
 
 
 ##Ce que j'ai fait 
 
 - Apprendre à corriger les erreurs 
-- Défaire un commit érroné 
+- Défaire un commit éroné 
 - Défaire des changements 
 - garder de côté des changements
 - exercices Scripts BASH
