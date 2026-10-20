@@ -28,6 +28,7 @@ J'aimerais qu'on réexplique l'usage des commandes uniq et sort lors de la proch
 
 ##exercice git
 
+
 ##Ce que j'ai fait 
 
 - Apprendre à corriger les erreurs 
@@ -40,3 +41,7 @@ J'aimerais qu'on réexplique l'usage des commandes uniq et sort lors de la proch
 
 Le cours ayant lieu de façon asynchrone, j'ai lu les ressources mises à notre disposition avant d'entamer les les différentes feuilles d'exercices. Dans l'exercice où on nous demandait de défaire le commit éronné, j'ai utilisé git log pour retrouvé la clé SHA du commit. Puis j'ai fait git reset a431fa474672c84bcc0638aa0638aaf90d082bdb11aa75 et git reset HEAD. Le commit n'apparaît plus dans l'historique mais les modifications sont toujours présentes. 
 
+
+cette ligne doit être supprimée
+
+Cette ligne doit rester après la correction.
