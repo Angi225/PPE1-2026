@@ -39,10 +39,16 @@ J'aimerais qu'on réexplique l'usage des commandes uniq et sort lors de la proch
 
 ## Pendant le cours
 
-Le cours ayant lieu de façon asynchrone, j'ai lu les ressources mises à notre disposition avant d'entamer les les différentes feuilles d'exercices. Dans l'exercice où on nous demandait de défaire le commit éronné, j'ai utilisé git log pour retrouvé la clé SHA du commit. Puis j'ai fait git reset a431fa474672c84bcc0638aa0638aaf90d082bdb11aa75 et git reset HEAD. Le commit n'apparaît plus dans l'historique mais les modifications sont toujours présentes. 
+Le cours ayant lieu de façon asynchrone, j'ai lu les ressources mises à notre disposition avant d'entamer les les différentes feuilles d'exercices. Dans l'exercice où on nous demandait de défaire le commit éronné, j'ai utilisé git log pour retrouvé la clé SHA du commit. Puis j'ai fait git reset a431fa474672c84bcc0638aa0638aaf90d082bdb11aa75 et git reset HEAD. Le commit n'apparaît plus dans l'historique mais les modifications sont toujours présentes.J'ai utilisé la même logique pour l'exercice 3, j'ai fait git reset  git-seance-2-defaire pour revenir à cette version sans perdre mes changements. 
+
+Pour l'exercice 4, j'ai utilisé "Git status" pour voir le retard par rapport à la version en ligne.
+Quand je tente de récupérer les modifications il me signal que les modifications effectuées depuis mon espace locales seront écrasées par la fusion.J'ai utilisé la commande "git stash pus -m Conservation des changements séance 3" pour mettre de côté mes changements. Puis j'ai utilisé "git stash list" pour voir la liste des changements conservés et ce qu'ils contiennent. Pour ne pas que les changements apparaissent après les avoir appliqués on peut directement faire "git stash pop <stash>" mais j'ai utilisé git "stash apply <stash>" puis git stash drop <stash>"
+
+J'ai ensuite terminé la rédaction de mon journal avant d'enregistrer les changement et de mettre le tag "git-seance2-fin".
+ 
 
 
-cette ligne doit être supprimée
+
 
 Cette ligne doit rester après la correction.
 
