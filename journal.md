@@ -45,3 +45,6 @@ Le cours ayant lieu de façon asynchrone, j'ai lu les ressources mises à notre 
 cette ligne doit être supprimée
 
 Cette ligne doit rester après la correction.
+
+Je vais mettre cette ligne de côté
+
