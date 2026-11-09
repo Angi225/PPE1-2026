@@ -1,0 +1,15 @@
+     18 Irak
+     18 Suisse
+     18 Syrie
+     20 Haïti
+     20 Mars
+     22 Bruxelles
+     22 Turquie
+     24 Royaume-Uni
+     24 Terre
+     26 Russie
+     28 Europe
+     32 Montpellier
+     40 États-Unis
+     46 Paris
+    214 France

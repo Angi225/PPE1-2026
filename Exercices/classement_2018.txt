@@ -1,16 +1,15 @@
-      1 1000    Liban 
-      1 1002    Portugal 
-      1 10062   France 
-      1 1006    Haute-Savoie 
-      1 10081   Paris 
-      1 10083   Champs-Élysées 
-      1 10084   arc 
-      1 100     Bruxelles 
-      1 10112   place 
-      1 10118   Champs-Élysées 
-      1 10124   avenue 
-      1 1013    Grande-Bretagne 
-      1 1019    Amsterdam 
-      1 10209   Champs-Élysées 
-      1 1021    Côte-d’Ivoire
- 
+     18 place de la République
+     19 Élysée
+     20 A20
+     20 A61
+     21 A50
+     21 A62
+     21 Strasbourg
+     22 A8
+     24 A7
+     28 A9
+     36 Russie
+     37 États-Unis
+     76 Champs-Élysées
+    165 Paris
+    174 France

@@ -1,3 +1,4 @@
+
 Question 1.a
 
 cat *.ann | wc
@@ -16,3 +17,13 @@ J'ai ensuite fait "grep Location *.ann| cut -d ' ' -f3| sort | uniq -c | tail
 
 commande finale : grep Location *.ann| cut -d ' ' -f3| sort | uniq -c | head 
 -n15
+
+Après la correction, je me suis rendu compte que je n'avait pas les bons résultats pour les exercices de classement. J'ai donc modifié ces commandes :
+
+  cat ann/2016/*.ann | grep Location | cut -f3 | sort | uniq -c | sort -n | tail -n 15 > classement_2016.txt
+  cat ann/2017/*.ann | grep Location | cut -f3 | sort | uniq -c | sort -n | tail -n 15 > classement_2017.txt
+  cat ann/2018/*.ann | grep Location | cut -f3 | sort | uniq -c | sort -n | tail -n 15 > classement_2018.txt
+
+
+  cat ann/*/201?_03_*.ann | grep Location | cut -f3 | sort | uniq -c | sort -n | tail -n 15 > classement_mars.txt
+
