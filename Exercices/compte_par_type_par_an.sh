@@ -2,11 +2,6 @@
 
 TYPE="$1"
 
-if (( "$#" !=1)); then
-             echo "cette commande requiert exactement 1 argument" >&2
-	     exit
-fi
-
 echo "Nombre de $TYPE en 2016"
 bash ./comptes_par_types.sh "$TYPE" 2016.ann
 echo "Nombre de $TYPE en 2017"
