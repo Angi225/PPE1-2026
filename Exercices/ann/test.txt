@@ -1,0 +1,4 @@
+!#/~/Exercice1/ann  bash
+
+echo "bonjour vous allez bien ?"
+
